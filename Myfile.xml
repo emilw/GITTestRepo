@@ -1,5 +1,6 @@
 <xml>
   <FirstCommit>MB,FB1</FirstCommit>
   <SecondCommit>MB,FB1</SecondCommit>
-  <ThirdCommit>MB</ThirdCommit>
+  <ThirdCommit>MB,FB1</ThirdCommit>
+  <ForthCommit>FB1</ForthCommit>
 </xml>
